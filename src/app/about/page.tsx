@@ -17,7 +17,7 @@ export default function About() {
   />
 </div>
         <p>
-          Hello, I'm Nimra Ulfat! I am passionate about web development and eager to continue growing in the field. My journey in tech started with an interest in problem-solving and design, which led me to specialize in front-end technologies like HTML, CSS, JavaScript, and TypeScript. I have hands-on experience with frameworks such as React.js and Next.js, and I love creating intuitive, responsive user interfaces.
+          Hello, I am Nimra Ulfat! I am passionate about web development and eager to continue growing in the field. My journey in tech started with an interest in problem-solving and design, which led me to specialize in front-end technologies like HTML, CSS, JavaScript, and TypeScript. I have hands-on experience with frameworks such as React.js and Next.js, and I love creating intuitive, responsive user interfaces.
         </p>
         
         <Link href="https://www.linkedin.com/in/nimra-ulfat-14a2162b7/" className="btn-primary">

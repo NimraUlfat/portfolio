@@ -2,7 +2,6 @@ import Image from 'next/image';
 import image1 from '../../../public/images/image1.jpg'; 
 import image2 from '../../../public/images/image2.jpg';
 import image3 from '../../../public/images/image3.jpg';
-import Link from 'next/link';
 
 export default function Portfolio() {
   return (
@@ -15,8 +14,8 @@ export default function Portfolio() {
           height={250} 
           className="profile-picture"
         />
-        <h1>Hello, I'm <span>Nimra Ulfat</span></h1>
-        <p>I’m a creative developer specializing in front-end development. Check out my work below!</p>
+        <h1>Hello, I am <span>Nimra Ulfat</span></h1>
+        <p>I am a creative developer specializing in front-end development. Check out my work below!</p>
         <a href="#projects" className="btn-primary">View Projects</a>
       </section>
 
@@ -66,7 +65,7 @@ export default function Portfolio() {
       {/* Contact Section */}
       <section className="contact">
         <h2>Get In Touch</h2>
-        <p>If you’d like to connect, feel free to reach out!</p>
+        <p>If you would like to connect, feel free to reach out!</p>
         <a href="https://www.linkedin.com/in/nimra-ulfat-14a2162b7/" className="btn-primary">Contact Me</a>
       </section>
     </div>
